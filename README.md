@@ -56,26 +56,40 @@ Cluster
 
 Current Libraries
 
-- BOOK_LIBRARY_ENGINE
-- CONCEPT_LIBRARY
-- RELATION_LIBRARY
-- PATTERN_LIBRARY
-- PATTERN_CLUSTER
-- VALIDATION
+* BOOK_LIBRARY_ENGINE
+* CONCEPT_LIBRARY
+* RELATION_LIBRARY
+* PATTERN_LIBRARY
+* PATTERN_CLUSTER
+* VALIDATION
 
 ---
 
 Current Status
 
-Concept = 15
+Concept = 16
 
-Relation = 19
+Relation = 21
 
-Pattern = 3
+Pattern = 4
 
 Cluster = 1
 
 Validation = PASS
+
+---
+
+Spider Web Status
+
+Concept Layer = ACTIVE
+
+Relation Layer = ACTIVE
+
+Pattern Layer = ACTIVE
+
+Cluster Layer = ACTIVE
+
+Application Layer = FREEZE
 
 ---
 

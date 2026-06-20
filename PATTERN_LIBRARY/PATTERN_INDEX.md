@@ -48,3 +48,15 @@ ACTIVE
 状态：
 
 ACTIVE
+
+## PATTERN_004
+
+基层秩序自生成机制
+
+来源：
+
+PATTERN_VALIDATION_STAGE_02
+
+状态：
+
+ACTIVE

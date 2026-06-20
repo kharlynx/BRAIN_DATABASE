@@ -2,7 +2,7 @@
 
 ## 当前状态
 
-Concept Count: 15
+Concept Count: 16
 
 Status: ACTIVE
 
@@ -39,6 +39,8 @@ Status: ACTIVE
 014 地方自治
 
 015 权威来源
+
+016 地方性
 
 ---
 
