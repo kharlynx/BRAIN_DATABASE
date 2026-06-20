@@ -2,9 +2,9 @@
 
 ## 当前状态
 
-Cluster Count: 1
+Cluster Count: 2
 
-Status: FREEZE
+Status: ACTIVE
 
 ---
 
@@ -22,6 +22,18 @@ PATTERN_003_资源_社会_权力演化
 
 ---
 
+## CLUSTER_002
+
+社会运行机制
+
+包含：
+
+PATTERN_004_基层秩序自生成机制
+
+PATTERN_005_代际权力转移循环
+
+---
+
 ## 状态
 
-FREEZE
+ACTIVE

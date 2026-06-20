@@ -2,7 +2,7 @@
 
 ## 当前状态
 
-Concept Count: 16
+Concept Count: 18
 
 Status: ACTIVE
 
@@ -42,6 +42,10 @@ Status: ACTIVE
 
 016 地方性
 
+017 代际权力转移
+
+018 社会继替
+
 ---
 
 ## Spider Web 状态
@@ -52,6 +56,6 @@ Relation Layer = ACTIVE
 
 Pattern Layer = ACTIVE
 
-Cluster Layer = FREEZE
+Cluster Layer = ACTIVE
 
 Application Layer = FREEZE

@@ -8,7 +8,7 @@
 
 Status
 
-SPIDER_WEB_V1_STABLE
+SPIDER_WEB_V2_MID_GROWTH
 
 PASS
 
@@ -30,14 +30,6 @@ Chunk
 
 ↓
 
-Embedding
-
-↓
-
-FAISS
-
-↓
-
 Concept
 
 ↓
@@ -51,6 +43,10 @@ Pattern
 ↓
 
 Cluster
+
+↓
+
+Application
 
 ---
 
@@ -67,13 +63,15 @@ Current Libraries
 
 Current Status
 
-Concept = 16
+Concept = 18
 
-Relation = 21
+Relation = 31
 
-Pattern = 4
+Pattern = 5
 
-Cluster = 1
+Cluster = 2
+
+Pattern Candidate = 1
 
 Validation = PASS
 
@@ -90,6 +88,32 @@ Pattern Layer = ACTIVE
 Cluster Layer = ACTIVE
 
 Application Layer = FREEZE
+
+---
+
+Current Core Assets
+
+PATTERN_004
+
+基层秩序自生成机制
+
+THREE_BOOK_VALIDATED
+
+---
+
+PATTERN_005
+
+代际权力转移循环
+
+CORE_PATTERN
+
+---
+
+CONCEPT_018
+
+社会继替
+
+CORE_CONCEPT
 
 ---
 

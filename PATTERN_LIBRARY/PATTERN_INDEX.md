@@ -1,18 +1,22 @@
 # PATTERN_INDEX
 
-## 已建立Pattern
+## 当前状态
+
+Pattern Count: 5
+
+Pattern Candidate Count: 1
+
+Status: ACTIVE
+
+---
+
+## 已建立 Pattern
 
 ### PATTERN_001
 
 资源 → 权力 → 结构
 
-来源：
-
-- 差序格局
-- 乡土社会
-- 土地制度
-
-状态：
+Status:
 
 ACTIVE
 
@@ -22,41 +26,70 @@ ACTIVE
 
 生产方式 → 家庭结构
 
-来源：
-
-- 土地制度
-- 亲属制度
-- 乡土社会
-
-状态：
+Status:
 
 ACTIVE
+
 ---
 
 ### PATTERN_003
 
 资源 → 社会 → 权力演化
 
-来源：
-
-- 土地制度
-- 乡土社会
-- 礼俗社会
-- 长老统治
-- 教化权力
-
-状态：
+Status:
 
 ACTIVE
 
-## PATTERN_004
+---
+
+### PATTERN_004
 
 基层秩序自生成机制
 
-来源：
+Status:
 
-PATTERN_VALIDATION_STAGE_02
+THREE_BOOK_VALIDATED
 
-状态：
+Source:
 
-ACTIVE
+001_JIANGCUN_ECONOMY
+
+002_FROM_THE_SOIL
+
+003_RURAL_RECONSTRUCTION
+
+---
+
+### PATTERN_005
+
+代际权力转移循环
+
+Status:
+
+CORE_PATTERN
+
+---
+
+## Pattern Candidate
+
+### PATTERN_CANDIDATE_001
+
+社会成员形成循环
+
+Status:
+
+WAIT_CROSS_BOOK_VALIDATION
+
+Source:
+
+004_REPRODUCTIVE_SYSTEM
+
+---
+
+## Spider Web 状态
+
+Pattern Layer = ACTIVE
+
+Cross Book Validation = ACTIVE
+
+Pattern Candidate Layer = ACTIVE

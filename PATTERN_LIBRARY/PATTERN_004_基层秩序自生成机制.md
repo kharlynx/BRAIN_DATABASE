@@ -117,3 +117,23 @@ PASS
 ## Status
 
 ACTIVE
+
+## Cross Book Validation
+
+Source:
+
+001_JIANGCUN_ECONOMY
+
+002_FROM_THE_SOIL
+
+003_RURAL_RECONSTRUCTION
+
+Status:
+
+PASS
+
+---
+
+## Validation Level
+
+THREE_BOOK_VALIDATED
