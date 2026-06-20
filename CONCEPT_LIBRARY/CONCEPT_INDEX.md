@@ -2,7 +2,7 @@
 
 ## 当前状态
 
-Concept Count: 18
+Concept Count: 20
 
 Status: ACTIVE
 
@@ -45,6 +45,10 @@ Status: ACTIVE
 017 代际权力转移
 
 018 社会继替
+
+019 调查者位置
+
+020 知识传承
 
 ---
 

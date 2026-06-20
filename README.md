@@ -63,15 +63,15 @@ Current Libraries
 
 Current Status
 
-Concept = 18
+Concept = 20
 
-Relation = 31
+Relation = 32
 
 Pattern = 5
 
 Cluster = 2
 
-Pattern Candidate = 1
+Pattern Candidate = 2
 
 Validation = PASS
 

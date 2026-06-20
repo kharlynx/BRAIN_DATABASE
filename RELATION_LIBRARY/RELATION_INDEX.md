@@ -2,7 +2,7 @@
 
 ## 当前状态
 
-Relation Count: 31
+Relation Count: 32
 
 Status: ACTIVE
 
@@ -137,4 +137,5 @@ Status: ACTIVE
 * REL_032：社会继替 → 血缘关系
 * REL_033：社会继替 → 代际权力转移
 * REL_034：社会继替 → 权威来源
+* REL_035：知识传承 → 社会继替
 
